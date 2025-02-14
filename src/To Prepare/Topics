@@ -1,0 +1,41 @@
+Dynamic Programming
+Greedy Algorithms
+Backtracking
+Stack and Queue
+Graphs
+
+----------------------------------------------------------------------------
+
+
+BackTracking
+
+-> Rod Cutting
+-> Coloring problem
+-> N-Queens
+
+
+Dynamic Programming
+
+-> Longest palindromic subsequence or common subsequence
+-> Minimum insertions / deletions to make a string palindrome
+
+
+Tree
+
+-> Inorder, preorder and postorder
+-> Maximum depth of binary tree
+-> Validate binary search tree
+-> Lowest common ancestor
+-> Symmetric tree
+-> Binary tree level order traversal
+-> Convert sorted array to binary search tree
+-> Diameter of binary tree
+-> Invert binary tree
+
+
+Arrays
+
+-> Best Time to Buy and Sell Stocks
+-> Merge Intervals
+-> Maximum Subarray (Kadane's Algorithm)
+-> Product of array except self
